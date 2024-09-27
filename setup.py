@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from typing import List
 
 PROJECT_NAME = "finance"
-VERSION = "0.0.1"
+VERSION = "0.0.3"
 AUTHOR = "Bala Murugan"
 DESCRIPTION = "This is a dispute anticipation predictor project"
 

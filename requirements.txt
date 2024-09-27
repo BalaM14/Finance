@@ -3,7 +3,7 @@ jupyterlab==3.4.7
 pyspark==3.2.1
 PyYAML==6.0
 ipykernel==6.15.0
-pandas==1.3.5
+pandas
 pymongo[srv]
 python-dotenv
 -e .

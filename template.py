@@ -12,7 +12,7 @@ list_of_files = [
     f"{project_name}/components/model_trainer.py",
     f"{project_name}/components/model_evaluation.py",
     f"{project_name}/components/model_pusher.py",
-    f"{project_name}/configuration/__init__.py",
+    f"{project_name}/config/__init__.py",
     f"{project_name}/constant/__init__.py",
     f"{project_name}/entity/__init__.py",
     f"{project_name}/entity/config_entity.py",
