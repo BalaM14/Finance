@@ -24,6 +24,6 @@ setup(
     version=VERSION,
     author=AUTHOR,
     description=DESCRIPTION,
-    packages=find_packages(),                   #Here we are using this find_packages instead of housing is to check all the folders and wherever the __init__.py is there it will create a package
+    packages=find_packages(),                   #Here we are using this find_packages instead of src name is to check all the folders and wherever the __init__.py is there it will create a package
     install_requires=get_requirements_list()
 )
